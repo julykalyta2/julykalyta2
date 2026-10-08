@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @julykalyta2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Julie! 👋
 
-<!---
-julykalyta2/julykalyta2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Data Analyst passionate about turning complex datasets into clear, actionable insights using SQL, Python, and Power BI.
+
+- 📊 **What I do:** Data cleaning, exploratory data analysis, database management, and interactive dashboard creation.
+- 🛠️ **Tech Stack:** Python, SQL, Power BI, DAX, Git/GitHub.
+- 📫 **How to reach me:** [https://www.linkedin.com/in/julie-kalyta-685775211/?isSelfProfile=true)]
+
+---
+### Featured Project
+- **[Real Estate Market & Investment Analytics](https://github.com/julykalyta2/real-estate-market-investment-analytics)**: An end-to-end data analytics project featuring custom SQL cleaning pipelines, Python exploratory data analysis, and an interactive Power BI dashboard tracking property trends.
